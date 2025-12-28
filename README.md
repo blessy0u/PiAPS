@@ -1,1 +1,12 @@
-# PiAPS
+# ПиАПС 10 лабораторная
+![Result](laba10-main/diagrams/Result.png)
+![ClassDiagramFromJava](laba10-main/diagrams/ClassDiagramFromJava.png)
+![ClassDiagramToJava](laba10-main/diagrams/ClassDiagramToJava.png)
+![SequenceCafedra](laba10-main/diagrams/SequenceCafedra.png)
+![SequenceCourse](laba10-main/diagrams/SequenceCourse.png)
+![SequenceDean](laba10-main/diagrams/SequenceDean.png)
+![SequenceFaculty](laba10-main/diagrams/SequenceFaculty.png)
+![SequenceProject](laba10-main/diagrams/SequenceProject.png)
+![SequenceUniversity](laba10-main/diagrams/SequenceUniversity.png)
+![StateMachine](laba10-main/diagrams/StateMachine.png)
+![UseCase](laba10-main/diagrams/UseCase.png)
